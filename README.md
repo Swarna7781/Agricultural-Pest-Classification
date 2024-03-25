@@ -1,1 +1,1 @@
-# Agricultural-Pest-Classification
+Using transfer learning, I have used four pre-trained models here VGG-16, MobileNetV2, InceptionV3 and ResNet50. For each model I have found out accuracy on my test data, no. of errors, confusion matrix and classification report. My main aim was to look for the best model which fits on my data and Resnet50 turned out to be the best one with an accuracy of 85%.
